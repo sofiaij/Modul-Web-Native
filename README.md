@@ -56,3 +56,7 @@
 # MODUL 1
 
 ![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/db.PNG)
+
+
+# MODUL 2
+![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/anggota1.PNG)
