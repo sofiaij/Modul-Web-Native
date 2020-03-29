@@ -60,3 +60,15 @@
 
 # MODUL 2
 ![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/anggota1.PNG)
+
+
+# MODUL 3
+### Anggota
+![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/3a.PNG)
+
+### Anggota
+![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/3a.PNG)
+
+### Buku
+![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/3b.PNG)
+
