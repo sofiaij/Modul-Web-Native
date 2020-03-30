@@ -70,3 +70,9 @@
 ### Buku
 ![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/3b.PNG)
 
+
+# MODUL 4
+![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/4a.PNG)
+
+
+![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/5a.PNG)
