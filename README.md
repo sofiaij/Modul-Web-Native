@@ -77,7 +77,6 @@
 
 ![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/5a.PNG)
 
-![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/m5.PNG)
 
 # MODUL 5
 ![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/m51.PNG)
