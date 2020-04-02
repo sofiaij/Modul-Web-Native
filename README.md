@@ -60,6 +60,8 @@
 
 # MODUL 2
 ![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/anggota1.PNG)
+![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/m21.PNG)
+![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/m22.PNG)
 
 
 # MODUL 3
@@ -72,10 +74,15 @@
 
 
 # MODUL 4
-![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/4a.PNG)
-
 
 ![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/5a.PNG)
 
+![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/m5.PNG)
 
+# MODUL 5
+![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/m51.PNG)
+
+
+# MODUL 6
+![Alt Text](https://github.com/sofiaij/Modul-Web-Native/blob/master/m6.PNG)
 ### Maaf belum lengkap! Soon ya!
